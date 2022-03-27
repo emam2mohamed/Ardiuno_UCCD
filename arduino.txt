@@ -1,0 +1,10 @@
+windows + R 
+///////////////////
+# : pre proccer command ; 
+block : function ;
+hidder file = library = driver ; 
+cls in power shell  to clear ;
+gss (code name.c ) -o; 
+windows+R = search ;
+sizeof();  /*to get a sizr of variable */
+& ; /*address of*/  
